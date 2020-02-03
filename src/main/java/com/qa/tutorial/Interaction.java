@@ -17,4 +17,8 @@ public class Interaction {
 		return "is trash";
 	}
 	
+	public String hello() {
+		return "hello";
+	}
+	
 }
